@@ -37,3 +37,6 @@ The results suggest that Net Rating effectively aggregates the key components of
 - The analysis focuses on regular-season performance only.
 - Results do not account for injuries, strength of schedule, or playoff outcomes.
 - This project is intended for educational and analytical purposes.
+
+- ![Win % vs Net Rating](winpct_vs_net_rating.png)
+- ![Win % vs TS%](winpct_vs_ts_pct.png)
